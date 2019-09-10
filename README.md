@@ -11,3 +11,6 @@
 
 ---
 ### Main View: 
+<img src="./MainView.PNG"
+     alt="Main View"
+     style="float: left; margin-right: 10px;" />
